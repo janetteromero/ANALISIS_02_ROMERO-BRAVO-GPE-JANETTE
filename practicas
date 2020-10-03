@@ -1,0 +1,4 @@
+meses= [("enero",120)("febrero",222)("marzo",445)]
+
+for meses in meses:
+  print (meses)

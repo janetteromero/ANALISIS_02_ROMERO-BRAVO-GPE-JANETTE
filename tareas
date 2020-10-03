@@ -1,0 +1,15 @@
+elementos = [  
+
+     ("Aluminio", 13),  
+
+     ("Helio", 2),  
+
+     ("Litio", 3),  
+
+     ("Bromo", 35)  
+
+]
+
+for elemento, numero_atomico in elementos:  
+
+     print(elemento, numero_atomico)
